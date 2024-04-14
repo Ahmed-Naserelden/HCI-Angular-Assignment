@@ -1,0 +1,25 @@
+/* Custom CSS for Task Form */
+.container {
+    margin-top: 50px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  textarea.form-control {
+    resize: vertical; /* Allow resizing vertically */
+  }
+  
+  button[type="submit"] {
+    width: 100%;
+  }
+  
+  .btn{
+    margin: 2px;
+  }
+  
